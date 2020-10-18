@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "prettier": {
-    "trailingComma": "all",
-    "singleQuote": true
+    "trailingComma": "none",
+    "singleQuote": false
   },
   "keywords": [],
   "author": "",
